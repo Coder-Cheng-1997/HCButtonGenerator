@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+HCButtonGenerator in Pods, no dependencies
+Pods-HCButtonGenerator_Example in Pods, depends on:
+HCButtonGenerator in Pods (explicit)
+Pods-HCButtonGenerator_Tests in Pods, depends on:
+Pods-HCButtonGenerator_Example in Pods (explicit)

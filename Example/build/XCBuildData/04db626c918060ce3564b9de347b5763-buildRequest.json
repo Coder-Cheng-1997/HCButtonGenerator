@@ -1,0 +1,52 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9818b120d6747dd2d213e219908ce541e0"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9868e090593935175a3bcf142bf26da874"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a60fd3620452f93fbadd5523ada974c6"
+    }
+  ],
+  "containerPath" : "/Users/hackintosh/Desktop/HCButtonGenerator1/HCButtonGenerator/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/hackintosh/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hackintosh/Library/Developer/Xcode/DerivedData/Pods-bniijvdekvmzlmclpwuzyqbvlicd/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hackintosh/Library/Developer/Xcode/DerivedData/Pods-bniijvdekvmzlmclpwuzyqbvlicd/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
